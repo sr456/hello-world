@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-This is a practice test. 
+This is a test. 
